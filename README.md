@@ -14,10 +14,10 @@ Dengan dataset ini, kami mengembangkan model prediksi **diabetes yang ada di wil
 
 Selain itu, **metode penelitian** yang kami guna terdiri dari tiga tahapan diantaranya:
 
-**1. Identifikasi Masalah*
+*1. Identifikasi Masalah*
 Dengan mengidentifikasikan masalah lalu mencari studi literatur baik dari makalah maupun jurnal terkait penyakit diabetes dan machine learning.
 
-**2. Analsisi Kebutuhan dan Perancangan* 
+*2. Analsisi Kebutuhan dan Perancangan* 
 Dimulai dengan pengumpulan data yang kami temmukan melalui lama kaggle yang berjudul Diabetes Predictive Analytics.
 
 Selanjutnya kami melakukan pre-processing untuk memastikan dataset yang kami gunakan sudah sesuai dengan kebutuhan dengan tiga tahapan yaitu:
@@ -42,7 +42,7 @@ Melatih model menggunakan data latih. Dalam pelatihan ini, model mempelajari hub
 - Naive Bayes: menggunakan algoritma GaussianNB dari scikit-learn
 Setelah pelatihan selesai, model diuji menggunakan data uji untuk mengevaluasi kinerjanya
 
-Tahap metode yang ketiga yaitu **Implementasi dan Hasil.*
+Tahap metode yang ketiga yaitu *Implementasi dan Hasil.*
 Dalam implementasi ini, kami membangun **model machine learning** dari lima algoritma diatas untuk memprediksi diagnosis diabetes seseorang di wilayah Asia pada tahun 2024. Setelah itu, kami evaluasi dilakukan dengan menggunakan metrik evaluasi yang paling umum digunakan yaitu **accuracy, precision, recall, dan F1-score.**
 
 Sehingga, hasil analisis menunjukkan bahwa **Decision Tree dan Random Forest menjadi algoritma paling optimal dalam mendeteksi diabetes dibandingkan metode lainnya.** Kedua algoritma ini menunjukkan akurasi tinggi dan keseimbangan prediksi yang lebih baik, menjadikannya pilihan unggul untuk diagnosis diabetes di wilayah Asia pada tahun 2024.
