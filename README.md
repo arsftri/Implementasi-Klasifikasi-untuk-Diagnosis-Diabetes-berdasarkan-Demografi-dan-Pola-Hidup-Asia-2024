@@ -2,6 +2,7 @@
 Implementasi Decision Tree, Random Forest, SVM, KNN, dan Naive Bayes untuk Diagnosis Diabetes berdasarkan Demografi dan Pola Hidup Asia 2024
 
 **Dataset:** https://www.kaggle.com/code/ahmadreginald/diabetes-predictive-analytics/notebook (Diabetes Predictive Analytics)
+
 **by:** Ahmad Reginald Syahiran
 
 Dengan dataset ini, kami mengembangkan model prediksi **diabetes yang ada di wilayah Asia pada tahun 2024 menggunakan Supervised Learning dengan pendekatan Klasifikasi yang menggunakan lima algoritma** diantaranya:
