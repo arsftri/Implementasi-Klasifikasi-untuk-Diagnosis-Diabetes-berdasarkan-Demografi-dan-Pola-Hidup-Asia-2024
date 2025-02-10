@@ -17,7 +17,7 @@ Selain itu, **metode penelitian** yang kami guna terdiri dari tiga tahapan diant
 *1. Identifikasi Masalah*
 Dengan mengidentifikasikan masalah lalu mencari studi literatur baik dari makalah maupun jurnal terkait penyakit diabetes dan machine learning.
 
-*2. Analsisi Kebutuhan dan Perancangan* 
+*2. Analsis Kebutuhan dan Perancangan* 
 Dimulai dengan pengumpulan data yang kami temmukan melalui lama kaggle yang berjudul Diabetes Predictive Analytics.
 
 Selanjutnya kami melakukan pre-processing untuk memastikan dataset yang kami gunakan sudah sesuai dengan kebutuhan dengan tiga tahapan yaitu:
